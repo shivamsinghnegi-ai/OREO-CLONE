@@ -2,7 +2,7 @@
 
 A modern, responsive clone of the official OREO website featuring a beautiful UI with carousel animations, product showcases, and interactive elements.
 
-**[🔗 View Live Site](oreo-clone12.netlify.app/)**
+**[🔗 View Live Site]((https://oreo-clone12.netlify.app/))**
 
 
 ## 📋 Table of Contents
